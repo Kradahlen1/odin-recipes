@@ -8,10 +8,12 @@
     line-height: 30px;
 }
 
-ul, ol {
+ul, ol, p {
     background-color: aliceblue;
+    color: #4a4a4a;
 }
 
-h2, h3 {
+h1, h2, h3 {
     background-color: ivory;
+    color: #4a4a4a;
 }
