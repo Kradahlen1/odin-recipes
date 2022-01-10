@@ -1,11 +1,12 @@
 .recipes {
     text-align: center;
-    background-color: aliceblue;
+    background-color: ivory;
 }
 
 .recipe-list {
     list-style-type: none;
     line-height: 30px;
+    background-color: ivory;
 }
 
 ul, ol, p {
@@ -14,7 +15,7 @@ ul, ol, p {
 }
 
 h1, h2, h3 {
-    background-color: ivory;
+    background-color: aliceblue;
     color: #4a4a4a;
 }
 
