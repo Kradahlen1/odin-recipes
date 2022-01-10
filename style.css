@@ -17,3 +17,7 @@ h1, h2, h3 {
     background-color: ivory;
     color: #4a4a4a;
 }
+
+a {
+    text-decoration: none;
+}
